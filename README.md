@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Security Reseracher<br>Bug Hunter
+Security Reseracher<br>Bug Hunter<br>Programer
 
 
 ## 🌐 Socials:
